@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:312e81&text=Shahab%20Hamidi&fontSize=55&fontColor=f43f5e&animation=fadeIn&fontAlignY=36&desc=Back-End%20Developer%20•%20Python%20•%20Django%20•%20DRF%20•%20PostgreSQL&descAlignY=56&descColor=cbd5e1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:4338ca&text=Shahab%20Hamidi&fontSize=58&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20DRF%20•%20Docker&descAlignY=58&descColor=cbd5e1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=F43F5E&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems...;Designing+RESTful+APIs...;Clean+Architecture...;Docker+%7C+PostgreSQL+%7C+Linux"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+Scalable+Backend+Systems...;RESTful+API+Developer...;Clean+Architecture...;Open+Source+Enthusiast..."/>
 
-<br>
+<br><br>
 
 <a href="mailto:shahabhamidi83@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -25,116 +25,95 @@
 # 👋 About Me
 
 ```python
-class Shahab:
+class ShahabHamidi:
 
     role = "Backend Developer"
 
     company = "Backend Developer Intern @ IPCO"
 
-    university = "Kharazmi University"
-
-    stack = [
-        "Python",
-        "Django",
-        "DRF",
-        "PostgreSQL",
-        "Docker",
-    ]
+    education = "B.Sc. Software Engineering"
 
     interests = [
+        "Backend Development",
+        "REST APIs",
         "System Design",
-        "Backend Security",
-        "Scalable APIs",
+        "Backend Security"
     ]
 
-    motto = "First solve the problem. Then write the code."
+    learning = [
+        "Redis",
+        "Celery",
+        "CI/CD",
+        "Kubernetes"
+    ]
 ```
 
 ---
 
-# 🚀 Current Focus
+# ⚡ Tech Stack
 
-- 🔥 Scalable Django Applications
-- ⚡ REST API Development
-- 🐳 Docker
-- 🛡 Backend Security
-- 🏗 Clean Architecture
-- 🐘 PostgreSQL
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,git,github,linux,java,js"/>
 
-</p>
+</div>
+
+<br>
+
+| Backend | Database | DevOps | Security |
+|---------|----------|---------|----------|
+| Django | PostgreSQL | Docker | JWT |
+| Django REST Framework | MySQL | Linux | OWASP Top 10 |
+| REST API | SQLite | Git | Authentication |
+| Swagger | | GitHub | Permissions |
 
 ---
 
 # 💼 Experience
 
-## Backend Developer Intern @ IPCO
+### Backend Developer Intern — IPCO
 
-- REST API Development
-- Database Design
-- Docker
-- Authentication & Authorization
-- Git Workflow
-- Clean Code
-- SOLID
+- 🚀 Developing scalable backend services
+- 🔐 Designing secure RESTful APIs
+- 🗄 Database modeling & optimization
+- 🐳 Dockerized environments
+- 🌿 Git & GitHub workflow
+- 🧩 Clean Code & SOLID Principles
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🛒 **Multi Vendor Marketplace** | Multi Vendor E-Commerce Platform |
-| 📢 **Ads API** | Django REST Framework Advertisement API |
-| 🌐 **FlowTeam** | Business Landing Platform |
-| 📝 **Personal Blog** | Complete Blogging System |
+| Project | Stack |
+|---------|------|
+| 🛒 **Multi Vendor Marketplace** | Django • DRF • Docker • MySQL |
+| 📢 **Ads REST API** | Django • DRF • JWT • Swagger |
+| 🌐 **FlowTeam** | Django • Bootstrap |
+| 📝 **Personal Blog** | Django • SQLite |
 
 ---
 
-# ⚙ Backend Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-
-<img src="https://img.shields.io/badge/DRF-red?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img width="97%" src="https://github-readme-streak-stats.herokuapp.com?user=ShahabHamidii&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ShahabHamidii&theme=tokyonight&hide_border=true"/>
 
-<br>
+</div>
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahabHamidii&theme=tokyo-night&hide_border=true"/>
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShahabHamidii&theme=tokyonight&row=1&column=6&margin-w=15&no-frame=true"/>
 
 </div>
 
@@ -152,8 +131,6 @@ class Shahab:
 
 <div align="center">
 
-### ⚡ Code • Learn • Build • Repeat
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=ShahabHamidii&style=for-the-badge&color=2563EB"/>
 
 </div>
