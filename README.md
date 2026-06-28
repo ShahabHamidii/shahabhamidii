@@ -363,56 +363,6 @@ https://github.com/ShahabHamidii/FlowTeam
 
 ---
 
-# 📚 Certifications
-
-<div align="center">
-
-| Certificate | Issuer |
-|-------------|--------|
-| 🐍 Python Programming | Maktabkhooneh |
-| 🌐 Django Framework | CodeYad |
-| 🔐 Security Fundamentals | Quera |
-
-</div>
-
----
-
-# 🌱 Learning Roadmap
-
-```text
-✅ Python
-
-✅ Django
-
-✅ Django REST Framework
-
-✅ REST APIs
-
-✅ Docker
-
-✅ Git
-
-✅ Linux
-
-✅ PostgreSQL
-
-🟡 Redis
-
-🟡 Celery
-
-🟡 Nginx
-
-🟡 CI/CD
-
-🟡 GitHub Actions
-
-🟡 Kubernetes
-
-🟡 Microservices
-```
-
----
-
 # 📈 GitHub Analytics
 
 <div align="center">
