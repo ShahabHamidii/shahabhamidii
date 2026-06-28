@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:1e3a8a,70:2563eb,100:38bdf8&text=Shahab%20Hamidi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20REST%20API%20•%20Docker&descAlignY=58&descColor=dbeafe"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:1e3a8a,70:2563eb,100:38bdf8&text=Shahab%20Hamidi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20&descAlignY=58&descColor=dbeafe"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=820&lines=Building+Scalable+Backend+Applications...;RESTful+API+Developer...;Clean+Architecture+Enthusiast...;Python+%7C+Django+%7C+PostgreSQL+%7C+Docker"/>
 
