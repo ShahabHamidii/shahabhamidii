@@ -212,18 +212,6 @@ SQLite
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShahabHamidii&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</div>
-
----
-
 # 📈 Profile Summary
 
 <div align="center">
