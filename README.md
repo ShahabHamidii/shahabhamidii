@@ -1,95 +1,260 @@
-👋 Shahab Hamidi
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:4338ca&text=Shahab%20Hamidi&fontSize=58&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20DRF%20•%20Docker&descAlignY=58&descColor=cbd5e1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:1e3a8a,70:2563eb,100:38bdf8&text=Shahab%20Hamidi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20•%20Python%20•%20Django%20•%20REST%20API%20•%20Docker&descAlignY=58&descColor=dbeafe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+Scalable+Backend+Systems...;RESTful+API+Developer...;Clean+Architecture...;Open+Source+Enthusiast..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=820&lines=Building+Scalable+Backend+Applications...;RESTful+API+Developer...;Clean+Architecture+Enthusiast...;Python+%7C+Django+%7C+PostgreSQL+%7C+Docker"/>
 
-<br><br>
+<br>
 
-<a href="mailto:shahabhamidi83@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ShahabHamidii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/shahabhamidii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:shahabhamidi83@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShahabHamidii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shahabhamidii">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ShahabHamidii&style=for-the-badge&color=2563EB"/>
 
 </div>
 
-***
-🚀 About Me
+---
 
+# 👋 About Me
+
+```python
 class ShahabHamidi:
+
     role = "Backend Developer"
+
     company = "Backend Developer Intern @ IPCO"
+
     education = "B.Sc. Software Engineering @ Kharazmi University"
 
-    stack = [
-        "Python","Django","DRF",
-        "PostgreSQL","Docker"
+    backend = [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "REST APIs"
     ]
 
-    learning = [
-        "Redis","Celery",
-        "CI/CD","Kubernetes"
+    databases = [
+        "PostgreSQL",
+        "MySQL",
+        "SQLite"
     ]
 
-***
-⚡ Tech Stack
+    devops = [
+        "Docker",
+        "Linux",
+        "Git"
+    ]
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,git,github,linux,java,js,html,css"/>
-</p>
+    currently_learning = [
+        "Redis",
+        "Celery",
+        "CI/CD",
+        "Kubernetes"
+    ]
+```
 
-Backend	Database	DevOps	Security
-Django	PostgreSQL	Docker	JWT
-DRF	MySQL	Linux	OWASP Top 10
-REST APIs	SQLite	Git	Authentication
-Swagger		GitHub	Permissions
-	***
-💼 Experience
+---
 
-Backend Developer Intern @ IPCO
-
-REST API Development
-Database Design & Optimization
-Dockerized Development
-Git Workflow
-Clean Architecture
-SOLID Principles
-
-***
-🚀 Featured Projects
-
-Project	Description
-🛒 Multi Vendor Marketplace	Django • DRF • Docker • MySQL
-📢 Ads REST API	Django • DRF • JWT • Swagger
-🌐 FlowTeam	Django • Bootstrap
-📝 Personal Blog	Django • SQLite
-	***
-📊 GitHub Stats
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,git,github,linux,java,js,html,css"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Backend | Database | DevOps | Security |
+|---------|----------|---------|----------|
+| Django | PostgreSQL | Docker | JWT |
+| Django REST Framework | MySQL | Linux | OWASP Top 10 |
+| REST API | SQLite | Git | Authentication |
+| Swagger | | GitHub | Permissions |
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🚀 Backend Developer Intern @ IPCO
+
+- ⚡ Developing scalable backend applications
+- 🔐 Building secure RESTful APIs
+- 🗄 Database Modeling & Optimization
+- 🐳 Dockerized Development
+- 🌿 Git Workflow
+- 🧩 SOLID & Clean Architecture
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 Multi Vendor Marketplace
+
+```
+Python
+Django
+DRF
+Docker
+MySQL
+```
+
+✔ Multi Vendor
+
+✔ Authentication
+
+✔ Orders
+
+✔ Inventory
+
+✔ Dashboard
+
+</td>
+
+<td width="50%">
+
+### 📢 Ads REST API
+
+```
+Django
+DRF
+JWT
+Swagger
+```
+
+✔ CRUD
+
+✔ Filtering
+
+✔ Pagination
+
+✔ Permissions
+
+✔ OpenAPI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 FlowTeam
+
+```
+Django
+Bootstrap
+```
+
+✔ Responsive
+
+✔ Landing Page
+
+✔ SEO
+
+</td>
+
+<td width="50%">
+
+### 📝 Personal Blog
+
+```
+Django
+SQLite
+```
+
+✔ Authentication
+
+✔ Comments
+
+✔ Categories
+
+✔ Search
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ShahabHamidii&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ShahabHamidii&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-***
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShahabHamidii&theme=tokyonight&row=1&column=6&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShahabHamidii&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
 
 </div>
 
-***
-🐍 Contribution Snake
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahabHamidii&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahabHamidii&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahabHamidii&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahabHamidii&theme=tokyonight&utcOffset=3"/>
+
+</div>
+
+---
+
+# ⚡ Development Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahabHamidii&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahabHamidii&theme=tokyonight&utcOffset=3"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -97,7 +262,16 @@ Project	Description
 
 </div>
 
-***
+---
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ShahabHamidii&style=for-the-badge&color=2563EB"/>
+
+<img src="https://komarev.com/ghpvc/?username=ShahabHamidii&style=for-the-badge&color=3B82F6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/ShahabHamidii?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/ShahabHamidii?style=for-the-badge&logo=github"/>
+
 </div>
