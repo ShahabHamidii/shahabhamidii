@@ -31,7 +31,7 @@ class ShahabHamidi:
 
     role = "Backend Developer"
 
-    company = "Backend Developer Intern @ IPCO"
+    company = "Backend Developer @ IPCO"
 
     education = "B.Sc. Software Engineering @ Kharazmi University"
 
@@ -54,11 +54,14 @@ class ShahabHamidi:
         "Git"
     ]
 
-    currently_learning = [
+    skills = [
         "Redis",
         "Celery",
         "CI/CD",
-        "Kubernetes"
+        "Kubernetes",
+        "Solid",
+        "System Design",
+        "Design Patterns",
     ]
 ```
 
@@ -68,7 +71,7 @@ class ShahabHamidi:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,git,github,linux,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,git,github,linux,java,js,html,css,bootstrap,kali,"/>
 
 </div>
 
@@ -89,7 +92,7 @@ class ShahabHamidi:
 
 # 💼 Experience
 
-## 🚀 Backend Developer Intern @ IPCO
+## 🚀 Backend Developer @ IPCO
 
 - ⚡ Developing scalable backend applications
 - 🔐 Building secure RESTful APIs
