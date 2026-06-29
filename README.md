@@ -74,6 +74,7 @@ class ShahabHamidi:
 <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,git,github,linux,java,js,html,css,bootstrap,kali,"/>
 
 </div>
+
 ---
 
 # 💼 Experience
