@@ -77,17 +77,6 @@ class ShahabHamidi:
 
 <br>
 
-<div align="center">
-
-| Backend | Database | DevOps | Security |
-|---------|----------|---------|----------|
-| Django | PostgreSQL | Docker | JWT |
-| Django REST Framework | MySQL | Linux | OWASP Top 10 |
-| REST API | SQLite | Git | Authentication |
-| Swagger | | GitHub | Permissions |
-
-</div>
-
 ---
 
 # 💼 Experience
