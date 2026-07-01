@@ -36,6 +36,7 @@ class ShahabHamidi:
     education = [
         "B.Sc. Software Engineering @ Kharazmi University"
         "National Organization for Development of Exceptional Talents"
+
     backend = [
         "Python",
         "Django",
