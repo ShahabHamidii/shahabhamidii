@@ -33,8 +33,9 @@ class ShahabHamidi:
 
     company = "Backend Developer @ IPCO"
 
-    education = "B.Sc. Software Engineering @ Kharazmi University"
-
+    education = [
+        "B.Sc. Software Engineering @ Kharazmi University"
+        "National Organization for Development of Exceptional Talents"
     backend = [
         "Python",
         "Django",
