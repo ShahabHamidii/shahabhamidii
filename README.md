@@ -63,7 +63,6 @@ class ShahabHamidi:
         "Kubernetes",
         "Solid",
         "System Design",
-        "Design Patterns",
     ]
 ```
 
