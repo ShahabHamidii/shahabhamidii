@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<img src="https://your-worker-subdomain.workers.dev"/>
+<img src="https://komarev.com/ghpvc/?username=ShahabHamidii&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -245,7 +245,7 @@ SQLite
 
 <div align="center">
 
-<img src="https://your-worker-subdomain.workers.dev"/>
+<img src="https://komarev.com/ghpvc/?username=ShahabHamidii&style=for-the-badge&color=3B82F6"/>
 
 <br><br>
 
