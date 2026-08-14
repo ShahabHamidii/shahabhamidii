@@ -189,49 +189,6 @@ SQLite
 </table>
 
 ---
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=ShahabHamidii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-# 📈 Profile Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahabHamidii&theme=tokyonight"/>
-
-<br><br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahabHamidii&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahabHamidii&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahabHamidii&theme=tokyonight&utcOffset=3"/>
-
-</div>
-
----
-
-# ⚡ Development Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahabHamidii&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahabHamidii&theme=tokyonight&utcOffset=3"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
