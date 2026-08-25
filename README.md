@@ -20,7 +20,7 @@
 class ShahabHamidi:
 
     # ── Identity ───────────────────────────────────────────────
-    status     = "🟢 Backend Developer Intern @ IPCO"
+    status     = "🟢 Backend Developer @ IPCO"
     education  = "B.Sc. Software Engineering · Kharazmi University of Tehran"
     location   = "Tehran, Iran 🇮🇷"
 
@@ -53,7 +53,7 @@ class ShahabHamidi:
 <tr>
 <td>
 
-### 🏭 Backend Developer Intern · [IPCO](https://ipco.co.ir)
+### 🏭 Backend Developer  · [IPCO](https://ipco.co.ir)
 **Iran Khodro Engine Research, Design & Manufacturing Co.** &nbsp;·&nbsp; Tehran &nbsp;·&nbsp; 2024–Present
 
 Working on a production **internal company portal** — a full Persian/RTL web application serving multiple departments.
@@ -141,7 +141,3 @@ Multi-vendor marketplace — each vendor gets an isolated storefront under one s
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:1e3a5f,100:0f172a&section=footer)
 
 </div>
-
-این چطور شد؟
-لینک های بنر هدر و فوتر کار میکنن ولی بقیشون نه
-هم اونارو درست کن و هم intern بودنم رو
