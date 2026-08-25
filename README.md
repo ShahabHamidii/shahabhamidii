@@ -20,7 +20,7 @@
 class ShahabHamidi:
 
     # ── Identity ───────────────────────────────────────────────
-    status     = "🟢 Backend Developer Intern @ IPCO"
+    status     = "🟢 Backend Developer @ IPCO"
     education  = "B.Sc. Software Engineering · Kharazmi University of Tehran"
     location   = "Tehran, Iran 🇮🇷"
 
@@ -30,9 +30,6 @@ class ShahabHamidi:
     devops     = ["Docker", "Git", "Linux", "CI/CD", "Redis"]
     practices  = ["SOLID", "Clean Architecture", "System Design", "OWASP Top 10"]
 
-    # ── Currently ──────────────────────────────────────────────
-    learning   = "Advanced Django patterns · PostgreSQL performance"
-    open_to    = "Internships · Junior backend roles"
 ```
 
 ---
@@ -53,9 +50,7 @@ class ShahabHamidi:
 <tr>
 <td>
 
-### 🏭 Backend Developer Intern · [IPCO](https://ipco.co.ir)
-**Iran Khodro Engine Research, Design & Manufacturing Co.** &nbsp;·&nbsp; Tehran &nbsp;·&nbsp; 2024–Present
-
+### 🏭 Backend Developer · IPCO
 Working on a production **internal company portal** — a full Persian/RTL web application serving multiple departments.
 
 </td>
@@ -123,18 +118,6 @@ Multi-vendor marketplace — each vendor gets an isolated storefront under one s
 ![snake](https://raw.githubusercontent.com/ShahabHamidii/ShahabHamidii/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## `> certifications --list`
-
-| Certificate | Issuer | Focus |
-|:---|:---|:---|
-| 🐍 Python Programming | Matabkhoneh | Core Python and OOP |
-| 🌐 Django Framework | CodeYad | Web development with Django |
-| 🔒 Task-Oriented Security | Quera | OWASP, secure coding practices |
-
----
 
 <div align="center">
 
