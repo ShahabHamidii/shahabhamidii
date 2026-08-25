@@ -1,6 +1,6 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a5f,100:0ea5e9&text=Shahab%20Hamidi&fontSize=52&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Python%20%26%20Django&descAlignY=58&descColor=93c5fd&descSize=17)
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:1e3a8a,70:2563eb,100:38bdf8&text=Shahab%20Hamidi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20&descAlignY=58&descColor=dbeafe"/>
 
 ![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+production-grade+REST+APIs;Interning+%40+IPCO+%E2%80%94+Iran+Khodro+Engine+R%26D;PostgreSQL+%7C+Django+%7C+Docker+%7C+Redis;Clean+architecture%2C+one+commit+at+a+time+%F0%9F%9A%80)
 
