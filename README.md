@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Gmail-shahabhamidi83-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=1e293b"/>
 </a>
 
-<a href="https://shahabhamidi.ir">
-  <img src="https://img.shields.io/badge/Portfolio-shahabhamidi.ir-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=1e293b"/>
-</a>
-
 </div>
 
 ---
@@ -127,15 +123,22 @@ Multi-vendor marketplace — each vendor gets an isolated storefront under one s
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=ShahabHamidii\&show_icons=true\&hide_border=true\&bg_color=0f172a\&title_color=38bdf8\&icon_color=0ea5e9\&text_color=94a3b8\&ring_color=1e3a5f\&include_all_commits=true\&count_private=true)
+<img
+src="https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=1e3a5f&include_all_commits=true&count_private=true"
+alt="GitHub Stats"
+/>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii\&layout=compact\&hide_border=true\&bg_color=0f172a\&title_color=38bdf8\&text_color=94a3b8\&langs_count=8)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahabHamidii\&hide_border=true\&background=0f172a\&ring=0ea5e9\&fire=38bdf8\&currStreakLabel=38bdf8\&sideNums=94a3b8\&sideLabels=64748b\&dates=64748b)
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=8"
+alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ShahabHamidii/ShahabHamidii/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<img
+src="https://streak-stats.demolab.com?user=ShahabHamidii&hide_border=true&background=0f172a&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=64748b&dates=64748b"
+alt="GitHub Streak"
+/>
 
 </div>
 
