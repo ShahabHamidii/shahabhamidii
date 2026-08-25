@@ -39,7 +39,7 @@ class ShahabHamidi:
     backend = ["Python", "Django", "Django REST Framework", "REST APIs"]
     databases = ["PostgreSQL", "MySQL", "SQLite"]
     devops = ["Docker", "Linux", "Git"]
-    skills = ["Redis", "Celery", "CI/CD", "Kubernetes", "SOLID", "System Design"]
+    skills = ["Redis", "Celery", "CI/CD", "SOLID", "System Design"]
 ```
 
 ---
@@ -68,47 +68,31 @@ class ShahabHamidi:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Multi-Vendor Marketplace
-`Python` `Django` `DRF` `Docker` `MySQL`
+### 🛒 [Django Multi-Shop](https://github.com/ShahabHamidii/multi_shop)
+`Python` `Django` `MySQL` `SQLite`
 
-- Multi-vendor support
-- Authentication
-- Orders & inventory management
-- Admin dashboard
+Multi-vendor e-commerce platform where each vendor gets its own storefront under one system.
 
-</td>
-<td width="50%">
-
-### 📢 Ads REST API
-`Django` `DRF` `JWT` `Swagger`
-
-- Full CRUD
-- Filtering & pagination
-- Permissions
-- OpenAPI docs
+- Multi-vendor architecture with separate storefronts
+- Product catalog: categories, variations, images, stock
+- Session-based cart, checkout & order flow
+- Role-based auth for vendors and customers
+- Basic sales analytics via Django Admin
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 FlowTeam
-`Django` `Bootstrap`
+### 🌐 [Portfolio Website](https://github.com/ShahabHamidii/portfolio)
+`Django 6` `PostgreSQL` `Gunicorn` `WhiteNoise`
 
-- Responsive landing page
-- SEO optimized
+Personal site at [shahabhamidi.ir](https://shahabhamidi.ir) — server-rendered, no frontend framework or build step.
 
-</td>
-<td width="50%">
-
-### 📝 Personal Blog
-`Django` `SQLite`
-
-- Authentication
-- Comments & categories
-- Search
+- Contact form validated server-side and stored in DB (viewable in Admin)
+- Interactive canvas particle-network hero, custom cursor, typewriter subtitle
+- Dark/light theme toggle respecting system preference
+- Deployed with Gunicorn + WhiteNoise, config via environment variables
 
 </td>
 </tr>
