@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahabhamidii-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=1e293b)](https://linkedin.com/in/shahabhamidii)
 [![Gmail](https://img.shields.io/badge/Gmail-shahabhamidi83-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=1e293b)](mailto:shahabhamidi83@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-shahabhamidi.ir-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=1e293b)](https://shahabhamidi.ir)
 
 </div>
 
