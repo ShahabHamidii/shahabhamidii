@@ -37,7 +37,7 @@ class ShahabHamidi:
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=python,django,postgres,mysql,redis,docker,git,linux,java,js,html,css,kali&theme=dark&perline=12)
+![skills](https://skillicons.dev/icons?i=python,django,postgres,mysql,docker,git,linux,java,js,html,css,kali&theme=dark&perline=12)
 
 </div>
 
