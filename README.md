@@ -2,7 +2,7 @@
     
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:1e3a8a,70:2563eb,100:38bdf8&text=Shahab%20Hamidi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20&descAlignY=58&descColor=dbeafe"/>
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+production-grade+REST+APIs;Interning+%40+IPCO+%E2%80%94+Iran+Khodro+Engine+R%26D;PostgreSQL+%7C+Django+%7C+Docker+%7C+Redis;Clean+architecture%2C+one+commit+at+a+time+%F0%9F%9A%80)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+production-grade+REST+APIs;PostgreSQL+%7C+Django+%7C+Docker+%7C+Redis;Clean+architecture%2C+one+commit+at+a+time+%F0%9F%9A%80)
 
 <br/>
 
@@ -27,7 +27,7 @@ class ShahabHamidi:
     backend    = ["Python", "Django", "Django REST Framework", "REST APIs"]
     databases  = ["PostgreSQL", "MySQL", "SQLite"]
     devops     = ["Docker", "Git", "Linux", "CI/CD", "Redis"]
-    practices  = ["SOLID", "Clean Architecture", "System Design", "OWASP Top 10"]
+    practices  = ["SOLID", "Clean Architecture", "System Design", "Kali", "OWASP Top 10"]
 
 ```
 
@@ -37,7 +37,7 @@ class ShahabHamidi:
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=python,django,postgres,mysql,redis,docker,git,linux,java,js,html,css&theme=dark&perline=12)
+![skills](https://skillicons.dev/icons?i=python,django,postgres,mysql,redis,docker,git,linux,java,js,html,css,kali&theme=dark&perline=12)
 
 </div>
 
@@ -108,11 +108,9 @@ Multi-vendor marketplace — each vendor gets an isolated storefront under one s
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=ShahabHamidii&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=1e3a5f&include_all_commits=true&count_private=true)
+![stats](https://github-stats-extended.vercel.app/api?username=ShahabHamidii&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=1e3a5f&include_all_commits=true&count_private=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabHamidii&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=8)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahabHamidii&hide_border=true&background=0f172a&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=64748b&dates=64748b)
+![streak](https://streak-stats.demolab.com/?user=ShahabHamidii&hide_border=true&background=0f172a&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=64748b&dates=64748b)
 
 ![snake](https://raw.githubusercontent.com/ShahabHamidii/ShahabHamidii/output/github-contribution-grid-snake-dark.svg)
 
