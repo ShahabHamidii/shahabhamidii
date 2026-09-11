@@ -20,7 +20,8 @@ class ShahabHamidi:
 
     # ── Identity ───────────────────────────────────────────────
     status     = "🟢 Backend Developer @ IPCO"
-    education  = "B.Sc. Software Engineering · Kharazmi University of Tehran"
+    education  = ["B.Sc. Software Engineering · Kharazmi University of Tehran",
+                  "National Organization for Development of Exceptional Talents"]
 
     # ── What I build ───────────────────────────────────────────
     backend    = ["Python", "Django", "Django REST Framework", "REST APIs"]
